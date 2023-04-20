@@ -52,7 +52,7 @@ Groupware_Project
   - 
   
 ## **Usage Example**
-!Video
+!Video or GIF Screen shot
   
 
 
