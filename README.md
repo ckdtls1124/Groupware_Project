@@ -49,7 +49,6 @@ Police Office Groupware : Team project
   - Frontend : HTML5, Javascript 
   - Framework : Spring Boot (2.x)
   - Database : MySQL 8.0.X
-  - 
   
 ## **Usage Example**
 !Video or GIF Screen shot
