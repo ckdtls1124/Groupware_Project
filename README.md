@@ -38,7 +38,10 @@
   해당 프로젝트에서는 지구대가 필요로 하는 기능을 구현하고자 하였습니다.
 
 
-## **Tools**
+## **Installation**
+  ```
+  $ git clone https://github.com/ckdtls1124/Groupware_Project.git
+  ```
 
   ## **Contents**
   
