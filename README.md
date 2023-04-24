@@ -5,7 +5,7 @@ Police Office Groupware : Team project
 
 ## :page_facing_up: Overview
   ![logo](https://user-images.githubusercontent.com/116870719/233240425-364d7819-0a14-488f-9582-7f01703baaa9.png)
-  > This project name is written in korean. '일석이조' is my team name, '지구대' is a korean word for 'local police office'.
+  > This project name is written in korean. '일석이조' is team name, '지구대' is a korean word for 'local police office'.
   ### *English*
   :police_officer: This project is the groupware web application for police office. 
   So called 'Groupware' is defined as follows.
