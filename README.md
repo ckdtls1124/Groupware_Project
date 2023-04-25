@@ -56,6 +56,16 @@ Police Office Groupware : Team project
 
 
   
-  
+  insert into chat_answer(content, keyword) values('조회하실 박스오피스 일자를 입력해주세요 (yyyyMMdd 형식)', '박스');
+
+insert into chat_answer(content, keyword) values('어떤 영화 보고 싶으세요?', '영화');
+
+insert into chat_answer(content, keyword) values('검색하실 시점을 알려주세요(이번 주, 다음 주)', '개봉');
+
+insert into chat_intention(keyword, answer_id) values('박스', 6);
+
+insert into chat_intention(keyword, answer_id) values('영화', 7);
+
+insert into chat_intention(keyword, answer_id) values('개봉', 8);
 
 
