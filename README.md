@@ -1,6 +1,6 @@
 Police Office Groupware : Team project
 ====================
-## :link: [Wiki](https://github.com/ckdtls1124/Groupware_Project/wiki) : 본 Wiki는 해당 프로젝트에서 제가 담당한 부분을 설명하고 있습니다.
+### :link: [Wiki](https://github.com/ckdtls1124/Groupware_Project/wiki) : 본 Wiki는 해당 프로젝트에서 제가 담당한 부분을 설명하고 있습니다.
   
 
 ## :page_facing_up: Overview
